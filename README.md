@@ -16,7 +16,5 @@ El diseño del monitoreo debe satisfacer las necesidades de información a nivel
 
 Se señala que teniendo un enfoque flexible se pueden integrar temas emergentes para ser tomados en las etapas de planificación, así como también un enfoque multipropósito, en donde los datos generados sean convertidos en información que alimenten los sistemas tanto nacionales como internacionales.
 
-Felipe va a actualizar 
-
 
 
