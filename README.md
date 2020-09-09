@@ -1,4 +1,4 @@
-#Apuntes básicos texto FAO, 2014#
+#Apuntes básicos texto FAO, 2014
 
 El monitoreo forestal debe considerar etapas o procesos de recopolación, análisis y divulgación así como también la producción de *información* y *conocimiento* a intervalos regulares.
 
