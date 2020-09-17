@@ -24,13 +24,14 @@ Según (Sahr, 2003), los Sistemas de Grillado Global son imparciales conforme a 
 
 Si bien el objetivo de este relato no es especificar cómo se construyen estas Redes Globales Discretas, se puede mencionar a grandes rasgos que son abstracciones de un objeto esférico pero que se compone de varios objetos regulares (o casi regulares). Existen diversas propuestas de Redes Globales Discretas, que dividen el globo en triángulos, cuadrados y hexágonos, en forma práctica estos productos pueden descargarse de las librerías *Geohash*, *S2* y *H3*.
 
-#Apuntes básicos H3
+##Apuntes básicos H3
 
 Buscar documentación SCB
 
-#Apuntes básicos de la indexación de Chile
+###Apuntes básicos de la indexación de Chile
 
 #Estructura de base de datos y asignación de información en distintas jerarquías
+
 
 #Enlaces de información
 
